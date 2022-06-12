@@ -1,0 +1,12 @@
+keybinds:
+	
+k: set kwtbb
+s: set service tax
+g: set number of days
+t: toggle tax
+e: english translation
+m: malay translation
+up arrow: scroll up the page
+down arrow: scroll down the page
+d: toggle dark mode
+enter: exit out of textbox
